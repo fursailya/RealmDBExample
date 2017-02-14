@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="phone">Phone</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="new_label">New employee</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RealmDBExample</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="phone">Phone</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="new_label">New employee</string>
+</resources>
